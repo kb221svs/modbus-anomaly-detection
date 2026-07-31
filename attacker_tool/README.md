@@ -51,6 +51,7 @@ python3 attack_script.py
 1. Attacks
 2. Manage OpenPLC (SSH)
 3. Exit program
+
 ===============================
 
 Опція 1 (Attacks): Вкажіть кількість повторів. Скрипт почне генерувати підозрілі Modbus-команди для тестування вашого IDS/IPS монітора.
