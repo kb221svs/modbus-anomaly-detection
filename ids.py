@@ -14,7 +14,7 @@ FILES = {
     '3': os.path.join(BASE_DIR, 'modbus_eth0.pcap'),
     '4': os.path.join(BASE_DIR, 'modbus_lo.pcap'),
     '5': os.path.join(BASE_DIR, 'live_attacks_captured.pcap'),
-    '6': os.path.join(BASE_DIR, 'modbus_enp0s3.pcap'
+    '6': os.path.join(BASE_DIR, 'modbus_enp0s3.pcap')
 }
 
 # Layer binding configuration
